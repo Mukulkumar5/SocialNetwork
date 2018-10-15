@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764401468767",
+    "firebase_url": "https://socialnetwork-5481e.firebaseio.com",
+    "project_id": "socialnetwork-5481e",
+    "storage_bucket": "socialnetwork-5481e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764401468767:android:03404d9999dda28c",
+        "android_client_info": {
+          "package_name": "com.bluetooth.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764401468767-ihn1e18986ok66lkjvdoom6em0uvsak0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluetooth.socialnetwork",
+            "certificate_hash": "7fbef90a5da724ba0e5442f1f4a362f4f0cf0ea2"
+          }
+        },
+        {
+          "client_id": "764401468767-mhk38a97pvukgnd5ur114t7q29ql096f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-UaosgSn2y7IsMDM3s0kLcUWvw1qp4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764401468767-mhk38a97pvukgnd5ur114t7q29ql096f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
